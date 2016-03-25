@@ -1,0 +1,9 @@
+{
+  "name": "cozyApp",
+  "cozy-type": "static",
+  "cozy-displayName": "cozyApp",
+  "version": "0.0.1",
+  "description": "cozyApp",
+  "icon-path": "main_icon.png"
+}
+
